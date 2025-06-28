@@ -1,0 +1,14 @@
+.recipe {
+  background-color: var(--white);
+  width: 100%;
+  padding: 1rem;
+}
+
+.recipe__img {
+  width: 100%;
+}
+
+.recipe__img--img {
+  width: 100%;
+  height: auto;
+}

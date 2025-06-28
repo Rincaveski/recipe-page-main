@@ -1,0 +1,16 @@
+@import url('base/reset.css');
+@import url('base/tipografia.css');
+@import url('base/variaveis.css');
+@import url('components/ingredients.css');
+@import url('components/instructions.css');
+@import url('components/nutrition.css');
+@import url('components/preparationTime.css');
+@import url('components/recipe.css');
+
+body {
+  background-color: var(--stone150);
+  color: var(--text-color);
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-family);
+}
